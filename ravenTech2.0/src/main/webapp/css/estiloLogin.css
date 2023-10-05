@@ -1,0 +1,202 @@
+@charset "UTF-8";
+
+body {
+	
+	background-image: linear-gradient(to right, rgb(17 1 29), rgb(40, 4, 64),	rgb(40, 4, 64));
+	height: 1080px;
+	width: 100%;
+}
+
+header {
+	border-color: #9831FF;
+	border-style: solid;
+	width: 100%;
+	height: 132px;
+}
+
+#iLogoRaven {
+	color: #9831FF;
+	font-size: xx-large;
+	font-style: normal;
+	margin-left: 20px;
+}
+
+#iDivLoginJaEstudaComAgente {
+	height: 617px;
+	width: 584px;
+	margin-top: 50px;
+	border-color: BlueViolet;
+	border-style: solid;
+	border-radius: 32px;
+	margin-left: 57px;
+	background-image: linear-gradient(to right, rgb(0 0 0), rgb(113, 6, 185),
+		rgba(6, 0, 10, 1));
+}
+
+form {
+	margin-left: 109px;
+}
+
+#iTituloEstudaComAgente {
+	color: white;
+	font-size: 50px;
+	margin-left: -57px;
+}
+
+
+
+#iFacaLogin {
+	color: white;
+	font-size: 21px;
+	margin-top: -19px;
+	margin-left: 66px;
+}
+
+label {
+	color: white;
+	font-size: 24px;
+	margin-left: -38px;
+}
+
+input {
+	height: 43px;
+	
+	width: 93%;
+	border: solid;
+	border-radius: 11px;
+	border-color: yellowgreen;
+	margin-left: -37px;
+}
+
+#iEntrar {
+	width: 232px;
+	margin-left: 66px;
+}
+
+button {
+	margin-left: 57px;
+	height: 50px;
+	width: 204px;
+	border-radius: 20px;
+}
+
+#iEsqueciSenha {
+	color: white;
+	margin-left: 213px;
+	margin-top: 40px;
+}
+
+#iDivAindaNaoEstudaComAgente {
+	border: solid;
+	border-color: blue;
+	width: 626px;
+	height: 760px;
+	margin-top: -603px;
+	margin-left: 832px;
+}
+
+#iTituloAindaNaoEstuda {
+	color: white;
+	margin-left: 88px;
+	font-size: 36px;
+}
+
+#subSaoMaisDeMil {
+	color: white;
+	margin-left: 93px;
+	font-size: 18px;
+	margin-top: -21px;
+}
+
+
+
+.cards {
+	width: 182px;
+	height: 182px;
+	border-color: rgb(113, 6, 185);
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 43px;
+	display: inline-block;
+	margin-left: 11px;
+	margin-top: 4px;
+	background-image: linear-gradient(to right, rgb(82 45 107),	rgb(57, 19, 83), rgb(40, 4, 64));
+}
+
+
+
+
+#iAindaNaoTemAcesso {
+	color: white;
+	margin-left: 907px;
+}
+
+#iBotaoMatricule {
+	background-image: linear-gradient(to right, #ff8040, rgb(113 6 185),
+		rgba(6, 0, 10, 1));
+	border-color: white;
+	color: #ffffff;
+	border-radius: 19px;
+	padding: 10px 19px;
+	font-weight: 600;
+	letter-spacing: .5px;
+	margin-left: 1172px;
+	margin-top: -74px;
+	position: absolute;
+}
+
+#imatr {
+	margin-top: 9px;
+}
+
+
+#iBannerDecoracao {
+	border: solid;
+	border-color: white;
+	background-image: linear-gradient(to right, #ff8040, rgb(113 6 185),
+		rgba(6, 0, 10, 1));
+	margin-top: 301px;
+	height: 135px;
+	width: 100%;
+}
+
+#iBannerMatricula {
+	border: solid;
+	border-color: white;
+	background-image: linear-gradient(to right, rgba(6, 0, 10, 1), #ffffff,
+		rgb(113, 6, 185), rgba(6, 0, 10, 1));
+	height: 199px;
+	width: 650px;
+	margin-top: -130px;
+	margin-left: 484px;
+}
+
+
+#iicone123{
+	
+	height: 150px;
+	width: 150px;
+	position: absolute;	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

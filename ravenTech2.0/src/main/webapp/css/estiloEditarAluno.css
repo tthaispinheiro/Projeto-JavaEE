@@ -1,0 +1,166 @@
+@charset "UTF-8";
+
+
+
+
+body {
+	
+	background-image: linear-gradient(to right, rgb(0 0 0), rgb(0 0 0), rgb(0 0 0));
+	height: 1080px;
+	width: 100%;
+	
+}
+
+
+
+header {
+	width: 100%;
+    height: 132px;
+}
+
+
+
+#divLogoRaven{
+	
+	height: 89px;
+    width: 90px;
+    border-radius: 93px;
+    background-color: rgb(113, 6, 185);
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 29px;
+	
+	
+}
+
+
+#iLogoRaven {
+	color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-style: inherit;
+    font-family: math;
+    margin-left: 20px;
+    margin-top: 39px;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+main{
+	width: 99%;
+    height: 994px;
+    margin-top: 65px;
+    position: absolute;
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(75, 9, 99), rgb(18, 120, 72), rgb(0, 0, 0));
+}
+
+
+
+form{
+	
+   height: 472px;
+    width: 400px;
+    margin-left: 785px;
+    margin-top: 123px;
+}
+
+
+input{
+	border: solid;
+    border-color: white;
+    /* margin-left: 9px; */
+    height: 25px;
+    width: 364px;
+	
+}
+
+
+
+label{
+	color: white;
+    font-size: 20px;
+    font-family: system-ui;
+	
+}
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	#iImgditar{
+	height: 355px;
+    width: 358px;
+    border-radius: 129px;
+    margin-left: 37px;
+    position: absolute;
+    margin-top: 155px;
+			
+	}
+	
+	
+	
+.classEsconder{
+	display: none;
+}
+
+
+/*RODAPÉ*/
+
+#iRodapeLogin{
+   
+   
+    height: 187px;
+    width: 100%;
+    margin-top: 1189px;
+}
+
+
+
+
+#ihr{
+	
+   margin-top: -76px;
+    position: absolute;
+    width: 86%;
+    margin-left: 117px;
+	
+	
+}
+
+#listaFooter{
+	
+	color: white;
+    margin-left: 390px;
+    margin-top: 8px;
+    position: absolute;
+	
+	
+	
+}
+
+
+
+#iRedesSociais{
+	
+	height: 120px;
+    width: 236px;
+    margin-left: 1056px;
+    margin-top: -1px;
+
+	
+	
+	
+	
+	
+}
+  
+
+

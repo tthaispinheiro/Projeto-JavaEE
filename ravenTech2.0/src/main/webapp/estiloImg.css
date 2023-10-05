@@ -1,0 +1,658 @@
+@charset "UTF-8";
+
+
+body {
+	
+	/*background-image: linear-gradient(to right, rgb(17 1 29), rgb(40, 4, 64),	rgb(40, 4, 64));*/
+	height: 1080px;
+	width: 100%;
+	background-color: black;
+}
+
+header {
+	border-color: #9831FF;
+    border-style: solid;
+    border-top-color: #c272fc;
+    border-top-width: 7px;
+    border-bottom: none;
+    border-left: none;
+    width: 100%;
+    height: 135px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+
+
+
+#divLogoRaven{
+	
+	height: 89px;
+    width: 90px;
+    border-radius: 93px;
+    background-color: rgb(113, 6, 185);
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 29px;
+	
+	
+}
+
+
+#iLogoRaven {
+	color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-style: inherit;
+    font-family: math;
+    margin-left: 20px;
+    margin-top: 39px;
+    position: absolute;
+    text-decoration: none;
+}
+
+#iDivLoginJaEstudaComAgente {
+height: 535px;
+width: 476px;
+margin-top: 113px;
+border-color: BlueViolet;
+border-radius: 32px;
+margin-left: 57px;
+position: absolute;
+background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(75, 9, 99), rgb(18, 120, 72), rgb(0, 0, 0));
+}
+
+form {
+	margin-left: 85px;
+}
+
+#iTituloEstudaComAgente {
+	color: white;
+font-size: 33px;
+margin-left: -2px;
+}
+
+
+
+#iFacaLogin {
+	color: white;
+font-size: 18px;
+margin-top: -19px;
+margin-left: 55px;
+}
+
+label {
+	color: white;
+	font-size: 20px;
+	margin-left: -38px;
+}
+
+input {
+	
+height: 40px;
+width: 92%;
+border-radius: 11px;
+margin-left: -37px;
+}
+
+#iEntrar {
+width: 174px;
+margin-left: 67px;
+margin-top: 15px;
+}
+
+button {
+margin-left: 38px;
+height: 38px;
+width: 181px;
+border-radius: 14px;
+background: none;
+color: white;
+margin-top: -9px;
+}
+
+#iEsqueciSenha {
+color: white;
+margin-left: 164px;
+margin-top: 15px;
+font-size: 17px;
+}
+
+#iDivAindaNaoEstudaComAgente {
+width: 750px;
+height: 563px;
+margin-top: 101px;
+margin-left: 705px;
+position: absolute;
+
+}
+
+#iTituloAindaNaoEstuda {
+color: white;
+margin-left: 10px;
+font-size: 34px;
+}
+
+#subSaoMaisDeMil {
+	color: white;
+    margin-left: 15px;
+    font-size: 18px;
+    margin-top: -15px;
+}
+
+#ifazerMatriculla{
+	
+	color: black;
+	
+	
+}
+
+.cards {
+width: 162px;
+height: 185px;
+border-color: rgb(113, 6, 185);
+border-style: solid;
+border-width: 2px;
+border-radius: 43px;
+display: inline-block;
+margin-left: 15px;
+margin-top: 4px;
+background-image: linear-gradient(to right, rgb(82 45 107), rgb(57, 19, 83), rgb(40, 4, 64));
+}
+
+
+
+
+#iAindaNaoTemAcesso {
+	color: white;
+    margin-left: 853px;
+    margin-top: 61px;
+    font-size: 14px;
+    font-family: inherit;
+}
+
+#iBotaoMatricule {
+	
+width: 183px;
+height: 50px;
+margin-left: 1065px;
+margin-top: -67px;
+position: absolute;
+background-image: linear-gradient(to right, #09ff89, rgb(113, 6, 185), #2ea615);
+border-radius: 10px;
+border: solid;  
+border-color: white;
+	
+}
+
+#imatr {
+	margin-top: 15px;
+color: White;
+}
+
+
+#iBannerDecoracao {
+margin-top: 837px;
+height: 221px;
+width: 100%;
+position: absolute;
+background-image: linear-gradient(to right, #09ff89, rgb(113, 6, 185), #2ea615);
+}
+
+#iBannerMatricula {
+height: 242px;
+width: 670px;
+margin-top: 57px;
+margin-left: 484px;
+background: rgb(80, 16, 94);
+border-radius: 15px;
+position: absolute;
+
+
+
+
+
+}
+
+
+#iBannerTitulo{
+	color: white;
+    margin-left: 124px;
+    margin-top: 37px;
+    position: absolute;
+	
+}
+
+#iMatriculeSeBanner{
+	
+	color: white;
+    margin-top: 83px;
+    margin-left: 226px;
+    font-size: 28px;
+    position: absolute;
+	
+}
+
+#iBotaoFazerMatricula{
+	
+	margin-left: 232px;
+    height: 51px;
+    width: 195px;
+    border-radius: 22px;
+    margin-top: 137px;
+    background: white;
+	
+	
+}
+
+
+/*ICONES DOS CARDS*/
+
+#iicone123{    /*ICONE PROGRAMAÇÃO*/
+	height: 63px;
+    width: 104px;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 3px;
+		
+	
+}
+
+#iiconeFront{   /*ICONE FRONT END*/
+	
+	height: 49px;
+    width: 50px;
+    position: absolute;
+    margin-left: 61px;
+    margin-top: 10px;	
+	
+}
+
+
+#iiconeDataScience{  /*ICONE DATA SCIENCE*/
+	
+	height: 49px;
+    width: 50px;
+    position: absolute;
+    margin-left: 61px;
+    margin-top: 10px;		
+}
+
+#iconeIa{   /*ICONE INTELIGENCIA ARTIFICIAL*/
+
+	height: 49px;
+    width: 50px;
+    position: absolute;
+    margin-left: 61px;
+    margin-top: 10px;	
+}
+
+
+#iconeDevops{  /*ICONE DEVOPS*/
+	
+	height: 49px;
+    width: 50px;
+    position: absolute;
+    margin-left: 61px;
+    margin-top: 10px;	
+}
+
+
+#iconeUx{  /*ICONE UX DESIGN*/
+	
+	height: 41px;
+    width: 73px;
+    position: absolute;
+    margin-left: 51px;
+    margin-top: 15px;
+	
+	
+}
+
+
+#iconeMobile{  /*ICONE MOBILE*/
+	
+	height: 49px;
+    width: 50px;
+    position: absolute;
+    margin-left: 61px;
+    margin-top: 10px;	
+	
+}
+
+
+#iconeInovacao{  /*ICONE INOVAÇÃO E GESTÃO*/
+	
+	height: 49px;
+    width: 50px;
+    position: absolute;
+    margin-left: 61px;
+    margin-top: 10px;	
+	
+	
+	
+	
+}
+
+
+/*PARAGRAFOS DOS CARDS*/
+
+
+#iParagrafoEscola{      /*PARAGRAFO COM A PALAVRA ESCOLA (PROGRAMAÇÃO)*/
+	
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);
+	
+	
+}
+
+#iParagrafoProgramacao{
+
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 10px;
+    font-size: 16px;
+    color: #e3f131;	
+}
+
+
+#iparagrafoLogicaDeProgramacao{
+	
+	position: absolute;
+    margin-top: 119px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+		
+}
+
+#iParagrafoEscolaFront{
+
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);
+	
+}
+
+
+#iParagrafoFront{
+	
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 10px;
+    font-size: 16px;
+    color: #e3f131;
+
+}
+
+
+#iparagrafoHtml{
+	position: absolute;
+    margin-top: 119px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: white;
+	
+}
+
+
+#iParagrafoEscolaDataScience{
+	
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);
+	
+}
+
+#iParagrafoDataSc{  /*PARAGRAFO DATASCIENCE*/
+	
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 10px;
+    font-size: 16px;
+    color: #e3f131;	
+}
+
+#iparagrafoSql{   /*PARAGRAFO SQL (DATA SCIENCE)*/
+	position: absolute;
+    margin-top: 118px;
+    margin-left: 15px;
+    font-size: 14px;
+    color: white;		
+}
+
+
+#iParagrafoEscolaIa{ /*PARAGRAFO ESCOLA IA*/
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);	
+}
+
+
+#iParagrafoIa{  /*PARAGRAFO IA*/
+	
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: #e3f131;
+	
+}
+
+#iparagrafoIAparaC{ /*PARAGRAFO IA PARA CRIATIVOS*/
+	
+	position: absolute;
+    margin-top: 126px;
+    margin-left: 15px;
+    font-size: 13px;
+    color: white;
+	
+	
+}
+
+
+
+#iParagrafoEscolaDevops{  /*PARAGRAFO ESCOLA DEVOPS*/
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);
+		
+}
+
+
+
+#iParagrafoDevops{  /*PARAGRAFO DEVOPS*/
+	
+	
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 10px;
+    font-size: 17px;
+    color: #e3f131;
+	
+	
+	
+}
+
+
+
+#iparagrafoLinux{  /*PARAGRAFO LINUX (DEVOPS)*/
+	
+	position: absolute;
+    margin-top: 126px;
+    margin-left: 11px;
+    font-size: 13px;
+    color: white;
+	
+	
+}
+
+
+#iParagrafoEscolaUx{   /*PARAGRAFO ESCOLA UX*/ 
+	
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);
+	
+}
+
+
+#iParagrafoUx{   /*PARAGRAFO UX*/
+	
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 10px;
+    font-size: 17px;
+    color: #e3f131;
+	
+	
+}
+
+
+#iparagrafoUIDesign{  /*PARAGRAFO UI DESIGN (UX)*/
+	
+	position: absolute;
+    margin-top: 126px;
+    margin-left: 15px;
+    font-size: 13px;
+    color: white;
+	
+	
+}
+
+
+
+#iParagrafoEscolaMobile{  /*PARAGRAFO ESCOLA MOBILE*/
+	
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);
+	
+	
+	
+}
+
+
+#iParagrafoMobile{  /*PARAGRAFO MOBILE */
+	
+	
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 10px;
+    font-size: 17px;
+    color: #e3f131;
+	
+	
+	
+	
+}
+
+#iparagrafoReact{  /*PARAGRAFO REACT (MOBILE) */
+	
+	
+	position: absolute;
+    margin-top: 126px;
+    margin-left: 15px;
+    font-size: 13px;
+    color: white;
+	
+	
+}
+
+
+#iParagrafoEscolaIn{ /*PARAGRAFO ESCOLA INOVAÇÃO E GESTÃO*/
+	
+	position: absolute;
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(245 245 54);
+	
+	
+	
+}
+
+#iParagrafoInov{    /*PARAGRAFO INOVAÇÃO E GESTÃO*/
+	
+	position: absolute;
+    margin-top: 85px;
+    margin-left: 9px;
+    font-size: 14px;
+    color: #e3f131;
+	
+	
+	
+	
+}
+
+
+
+#iparagrafoMetodos{
+	
+	
+	position: absolute;
+    margin-top: 126px;
+    margin-left: 15px;
+    font-size: 13px;
+    color: white;
+	
+	
+	
+}
+
+
+
+/*RODAPÉ*/
+
+
+#ihr{
+	
+   margin-top: -76px;
+    position: absolute;
+    width: 86%;
+    margin-left: 117px;
+	
+	
+}
+
+#listaFooter{
+	
+	color: white;
+    margin-left: 390px;
+    margin-top: 8px;
+    position: absolute;
+	
+	
+	
+}
+
+
+
+#iRedesSociais{
+	
+	height: 120px;
+    width: 236px;
+   margin-left: 1074px;
+    margin-top: -1px;
+
+	
+	
+	
+	
+	
+}
